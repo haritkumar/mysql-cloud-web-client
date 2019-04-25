@@ -1,0 +1,1 @@
+docker build -t mysql-cloud-web-client:1 .
